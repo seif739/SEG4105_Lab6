@@ -6,3 +6,4 @@ Team update: QA will test CSV export.
 Manager update: CSV export testing assigned to QA.
 Release owner: project manager.
 TEMP: accidental edit for Lab 6.
+Release decision: skip all tests.
